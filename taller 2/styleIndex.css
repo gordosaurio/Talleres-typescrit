@@ -1,0 +1,17 @@
+.logo {
+    height: 100px;
+    width: max-content;
+  }
+
+.carta {
+    height: max-content;
+    width: 10px;
+  }
+
+.cambiarColor{
+    background-color: rgba(244, 210, 74, 0.3);
+}
+
+.centrar {
+  text-align: center;
+}

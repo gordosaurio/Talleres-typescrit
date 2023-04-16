@@ -1,0 +1,8 @@
+.logo {
+    height: 100px;
+    width: max-content;
+  }
+
+.cambiarColor{
+    background-color: rgba(244, 210, 74, 0.3);
+}
